@@ -3,6 +3,4 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+IL DevOps is a community user group for gathering to share knowledge around technologies and processes.
