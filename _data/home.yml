@@ -38,11 +38,7 @@ project_entries:
   - title: June 20, 2024
     url: blog
     desc: TBA
-
-  - title: June 20, 2024
-    url: blog
-    desc: TBA
-
+    
   - title: July 18, 2024
     url: blog
     desc: TBA
@@ -86,18 +82,18 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: ILDevOps Home
+    url: https://ildevops.github.io
+    
+  - title: ILDevOps GitHub
+    url: https://github.com/ILDevOps
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Joani D
+    url: https://linkedin.com/in/joanna-delaporte
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
+  - title: Mike M
+    url: http://www.mikemitchell.info/
+    
 misc_entries:
   - title: this is an example vertical list
     url: false
