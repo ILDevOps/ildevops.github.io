@@ -87,6 +87,9 @@ footer_entries:
     
   - title: ILDevOps GitHub
     url: https://github.com/ILDevOps
+
+  - title: Slack
+    url: https://ildevops.slack.com
     
 misc_entries:
   - title: this is an example vertical list
