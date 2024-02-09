@@ -4,7 +4,7 @@ author: Joanna Delaporte
 tags: [organization, github, topics]
 ---
 
-# 2024 January Meetup
+
 Michael Kletz, Jim Johnson, and Joanna Delaporte
 
 * Plan a topic strategy for the year.
