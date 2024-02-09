@@ -9,32 +9,61 @@ navbar_entries:
     url: people
 
 project_entries:
-  - title: Project 1
-    url: overview-post
+  - title: January 18, 2024
+    url: blog
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: February 15, 2024
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Operational Git
+    highlight: Mike Mitchell
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: March 21, 2024
+    url: blog
+    desc: TBA
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: April 18, 2024
+    url: blog
+    desc: TBA
+    highlight: 
+
+  - title: May 16, 2024 
+    url: blog
+    desc: TBA
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: June 20, 2024
+    url: blog
+    desc: TBA
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: June 20, 2024
+    url: blog
+    desc: TBA
 
+  - title: July 18, 2024
+    url: blog
+    desc: TBA
+
+  - title: August 15, 2024
+    url: blog
+    desc: TBA
+
+  - title: September 19, 2024
+    url: blog
+    desc: TBA
+
+  - title: October 17, 2024
+    url: blog
+    desc: TBA
+
+  - title: November 21, 2024
+    url: blog
+    desc: TBA
+
+  - title: December 19, 2024
+    url: blog
+    desc: No event
+    
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
