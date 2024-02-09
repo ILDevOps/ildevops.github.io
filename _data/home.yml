@@ -2,7 +2,10 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: schedule
+    url: blog
+    
+  - title: notes
     url: blog
 
   - title: people
