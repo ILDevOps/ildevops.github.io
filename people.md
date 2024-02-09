@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People of ILDevops
+title: People
 ---
 
 # Joanna Delaporte
