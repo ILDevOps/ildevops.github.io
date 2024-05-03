@@ -29,3 +29,13 @@
 - Containerized dev environment with VSCode
   Presenter: University of Illinois Security Development team
 
+- API Exploration with Hoppscotch.io
+  Presenter: University of Illinois Security Development team
+  Description: https://mediaspace.illinois.edu/media/t/1_wobuqzav
+
+- Integration Testing with RobotFramework
+  Presenter: University of Illinois Security Development team
+  Description: https://mediaspace.illinois.edu/media/t/1_y35bj4qx
+  
+
+
