@@ -11,12 +11,19 @@ Mimir for time series database
 Deployed primarily with redhat.openshift.k8s module and jinja templates.
 Pull from docker hub and apply a config.yaml file.
 
+Had multiple monitoring environments running that were replaced successfully.
+
+## OpenShift
+Need a namespace.
+Need a service account on the namespace.
+For grafana, you need a second credential for cluster admin to deploy the operator into the namespace (unless it is pre-deployed into your namespace). Can use Kubernetes Bearer tokens injected via AAP rather than sending a credential in the playbooks.
 
 ## Mimir
 Deploy Mimir instance and expose a service/port.
 Stores to ceph/s3-style bucket.
 ISU doesn't need large/HA capacity yet.
 No PVC needed.
+Mimir supports HA out of the box more easily than Prometheus.
 
 ## Prometheus
 The remote write config requires a special header `X-Scope-OrgID: <id>`
@@ -39,4 +46,7 @@ Caching secrets in OpenShift would allow OpenShift to cache them and the playboo
 Use the same naming in test and prod.
 Then when moving workflow to production, everything works.
 
+## Future state
+Event Driven Ansible can insert metadata on the dashboards for alerts triggered and playbooks run.
+Could fairly easily expand to high availability model with this stack.
 
